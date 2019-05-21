@@ -10,4 +10,7 @@
 
 4.[战斗系统](hw04)
 
-width="560" height="315" src="E:\LG\Video_2019-05-21_082732.mp4" allowfullscreen="">
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="\LG\Video_2019-05-21_082732.mp4" type="video/mp4">
+</video>
+
