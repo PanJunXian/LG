@@ -10,6 +10,6 @@
 
 4.[战斗系统](hw04)
 
-## Markdown 语法演示
-
-![](images/exclamation.png) 语法 [demo 文档](demo)， [source](https://github.com/sysu-swi/homework/blob/gh-pages/demo.md)
+<video id="video" controls="" preload="none">
+    <source id="wmv" src="E:\LG\Video_2019-05-21_082732.wmv" type="video/wmv">
+</video>
