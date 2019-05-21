@@ -11,5 +11,5 @@
 4.[战斗系统](hw04)
 
 <video id="video" controls="" preload="none">
-    <source id="wmv" src="E:\LG\Video_2019-05-21_082732.wmv" type="video/wmv">
+    <source id="mp4" src="E:\LG\Video_2019-05-21_082732.mp4" type="video/mp4">
 </video>
